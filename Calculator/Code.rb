@@ -1,4 +1,4 @@
-puts "Welcome to Austin Holmes Caluculator"
+puts "Welcome to inipe's Caluculator"
 puts "Please enter your first number"
 first_number = gets.chomp.to_i
 puts "Would you like to add, subtract, multiply, or divide?"
