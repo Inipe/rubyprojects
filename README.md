@@ -1,2 +1,4 @@
-# rubyprojects
-Projects that do not deserve their own repo
+# Ruby Projects
+Projects that I have done using ruby.
+
+-Instructions are in each project-
