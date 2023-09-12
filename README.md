@@ -1,4 +1,4 @@
 # Ruby Projects
-Projects that I have done using ruby.
+Projects that I have done using ruby. To view these prjects for yourself, clone this repository using 'git clone 
 
 -Instructions are in each project-
