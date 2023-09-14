@@ -12,3 +12,16 @@ loop do
         puts "Please answer with 'yes' or 'no'."
     end    
 end
+
+puts "Is your animal a mammal? (yes/no)"
+
+answer1 = gets.chomp.to_s.downcase
+
+puts "Is this a large animal? (yes/no)"
+
+answer2 = gets.chomp.to_s.downcase
+
+puts "Is this animal a carnivore? (yes/no)"
+
+answer3 = gets.chomp.to_s.downcase
+
